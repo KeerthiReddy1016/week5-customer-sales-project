@@ -1,0 +1,13 @@
+customer_id,customer_name,product,category,amount,date
+1,Alice,A,Electronics,120,2025-01-05
+2,Bob,B,Clothes,80,2025-01-07
+1,Alice,C,Electronics,150,2025-01-10
+3,Charlie,A,Electronics,200,2025-02-12
+2,Bob,C,Electronics,90,2025-02-18
+4,Daisy,B,Clothes,60,2025-02-22
+1,Alice,A,Electronics,130,2025-03-01
+3,Charlie,C,Electronics,180,2025-03-15
+4,Daisy,A,Electronics,210,2025-03-20
+2,Bob,B,Clothes,75,2025-04-05
+1,Alice,C,Electronics,160,2025-04-10
+4,Daisy,C,Electronics,190,2025-04-22
