@@ -1,8 +1,0 @@
-customer_id,customer_name,product,category,amount,date
-1,Alice,A,Electronics,120,2025-01-05
-2,Bob,B,Clothes,80,2025-01-07
-1,Alice,C,Electronics,150,2025-02-10
-3,Charlie,A,Electronics,200,2025-02-15
-2,Bob,C,Electronics,90,2025-03-05
-4,Daisy,B,Clothes,60,2025-03-20
-1,Alice,A,Electronics,130,2025-03-25
